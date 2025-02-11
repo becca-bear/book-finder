@@ -2,4 +2,4 @@ A Book Finder that allows users to search for books and view their detailed info
 
 
 
-Check it out here: https://book-finder-nu-sandy.vercel.app/
+Try it out here: https://book-finder-nu-sandy.vercel.app/
